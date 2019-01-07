@@ -10,6 +10,7 @@
 
 ## vue
 - [vue-cli 2.X 的解析](https://juejin.im/post/5b2872516fb9a00e8626e34f)
+- [vue源码解析 值得一看](http://hcysun.me/vue-design/)
 
 ## node
 - [自己撸一个脚手架](https://segmentfault.com/a/1190000006190814)
