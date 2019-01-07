@@ -5,5 +5,5 @@
 
 
 ## JavaScript基础
-- [:star::star::star::star::star:js的面试宝典,讲解了很多api的原理,非常值得一看](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
+- :star::star::star::star::star: [js的面试宝典,讲解了很多api的原理,非常值得一看](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
 
