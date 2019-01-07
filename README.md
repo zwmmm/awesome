@@ -10,6 +10,7 @@
 
 ## vue
 - [vue-cli 2.X 的解析](https://juejin.im/post/5b2872516fb9a00e8626e34f)
+- [vue-cli 3 解析](https://juejin.im/post/5bdec6e8e51d4505327a8952)
 - [vue源码解析 值得一看](http://hcysun.me/vue-design/)
 
 ## node
