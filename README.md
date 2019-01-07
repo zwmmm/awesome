@@ -16,3 +16,7 @@
 
 ## css
 - [30秒内弄懂一个css片段,比较实用](http://caibaojian.com/30-seconds-of-css/)
+
+## 有意思的网站
+- [这个网站有很多好看的网站首页模板](https://cruip.com/)
+- [easy mock 非常好用的mock](https://easy-mock.com/login)
