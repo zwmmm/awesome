@@ -23,5 +23,6 @@
 - [这个网站有很多好看的网站首页模板](https://cruip.com/)
 - [easy mock 非常好用的mock](https://easy-mock.com/login)
 
-## 大会视频
+## 演讲
 - [SeeConf 云谦 分享前端框架探索之路](https://www.bilibili.com/video/av40319780/?share_source=weixin&ts=1547048467&share_medium=iphone&bbid=4ff683806444b991b63461161a27f1c3)
+- [张小龙 微信之夜演讲 2019](https://www.ifanr.com/1160383)
