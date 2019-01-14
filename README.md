@@ -17,7 +17,8 @@
 - [自己撸一个脚手架](https://segmentfault.com/a/1190000006190814)
 
 ## css
-- [30秒内弄懂一个css片段,比较实用](http://caibaojian.com/30-seconds-of-css/)
+- [30秒内弄懂一个css片段 很实用](http://caibaojian.com/30-seconds-of-css/)
+- [css灵感 css的各种解决方案 很实用](https://chokcoco.github.io/CSS-Inspiration/#/./layout/flex-waterfalls-flow)
 
 ## 有意思的网站
 - [这个网站有很多好看的网站首页模板](https://cruip.com/)
