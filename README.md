@@ -13,6 +13,7 @@
 - [vue-cli 2.X 的解析](https://juejin.im/post/5b2872516fb9a00e8626e34f)
 - [vue-cli 3 解析](https://juejin.im/post/5bdec6e8e51d4505327a8952)
 - [vue源码解析 值得一看](http://hcysun.me/vue-design/)
+- [vue构建10w+代码的代码设计](https://juejin.im/post/5b29c3bde51d45588d4d7110)
 
 ## node
 - [自己撸一个脚手架](https://segmentfault.com/a/1190000006190814)
