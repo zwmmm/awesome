@@ -15,6 +15,9 @@
 - [vue源码解析 值得一看](http://hcysun.me/vue-design/)
 - [vue构建10w+代码的代码设计](https://juejin.im/post/5b29c3bde51d45588d4d7110)
 
+## react
+- [如何管理好10万行代码的前端单页面应用](https://juejin.im/post/59cb0d0b5188257e876a2d27)
+
 ## node
 - [自己撸一个脚手架](https://segmentfault.com/a/1190000006190814)
 
