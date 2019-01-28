@@ -8,6 +8,7 @@
 - [js的面试宝典,讲解了很多api的原理,非常值得一看](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
 - [babel解析, 看完对babel的配置以及一些依赖包加深了解](https://github.com/sunyongjian/blog/issues/30)
 - [h5 首屏渲染优化 干货满满](https://juejin.im/post/5c3ff18b6fb9a04a0a5f76aa)
+- [早报](https://wubaiqing.github.io/zaobao/)
 
 ## vue
 - [vue-cli 2.X 的解析](https://juejin.im/post/5b2872516fb9a00e8626e34f)
