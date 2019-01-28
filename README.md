@@ -26,6 +26,7 @@
 ## css
 - [30秒内弄懂一个css片段 很实用](http://caibaojian.com/30-seconds-of-css/)
 - [css灵感 css的各种解决方案 很实用](https://chokcoco.github.io/CSS-Inspiration/#/./layout/flex-waterfalls-flow)
+- [css一些案例 值得一看 可以在线预览 阅读效果很赞](https://qishaoxuan.github.io/css_tricks/)
 
 ## 有意思的网站
 - [这个网站有很多好看的网站首页模板](https://cruip.com/)
