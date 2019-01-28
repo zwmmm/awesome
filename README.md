@@ -9,6 +9,7 @@
 - [babel解析, 看完对babel的配置以及一些依赖包加深了解](https://github.com/sunyongjian/blog/issues/30)
 - [h5 首屏渲染优化 干货满满](https://juejin.im/post/5c3ff18b6fb9a04a0a5f76aa)
 - [前端早报, 每天都会更新](https://wubaiqing.github.io/zaobao/)
+- [前端面试题, 经常更新](https://finget.github.io/2019/01/15/interview-questions/)
 
 ## vue
 - [vue-cli 2.X 的解析](https://juejin.im/post/5b2872516fb9a00e8626e34f)
