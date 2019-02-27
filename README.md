@@ -35,6 +35,7 @@
 ## 演讲
 - [SeeConf 云谦 分享前端框架探索之路](https://www.bilibili.com/video/av40319780/?share_source=weixin&ts=1547048467&share_medium=iphone&bbid=4ff683806444b991b63461161a27f1c3)
 - [张小龙 微信之夜演讲 2019](https://www.ifanr.com/1160383)
+- [支付宝大神云谦的b站视频分享](https://search.bilibili.com/upuser?keyword=sorryccpro)
 
 ## 面试
 - [中高级前端直通大厂宝典](https://juejin.im/post/5c64d15d6fb9a049d37f9c20#comment)
