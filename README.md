@@ -47,3 +47,6 @@
 
 ## 软件和工具
 - [terminus windows下最好用的终端工具了](https://github.com/eugeny/terminus)
+
+## 服务器相关
+- [前端开发必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
