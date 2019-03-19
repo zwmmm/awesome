@@ -43,6 +43,7 @@
 ## 有意思的网站
 - [这个网站有很多好看的网站首页模板](https://cruip.com/)
 - [easy mock 非常好用的mock](https://easy-mock.com/login)
+- [自动生成logo](https://mybrandnewlogo.com/)
 
 ## 演讲与分享
 - [SeeConf 云谦 分享前端框架探索之路](https://www.bilibili.com/video/av40319780/?share_source=weixin&ts=1547048467&share_medium=iphone&bbid=4ff683806444b991b63461161a27f1c3)
