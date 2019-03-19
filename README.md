@@ -4,8 +4,7 @@
 > 作为一个书签使用, 喜欢的可以给个star或者watch关注
 
 ## 目录
-- [JavaScript](#JavaScript)
-- [vue](#vue)
+[JavaScript](#JavaScript) | [vue](#vue)
 - [react](#react)
 - [node](#node)
 - [css](#css)
