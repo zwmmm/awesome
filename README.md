@@ -12,6 +12,7 @@
 - [babel解析, 看完对babel的配置以及一些依赖包加深了解](https://github.com/sunyongjian/blog/issues/30)
 - [js 引擎工作原理](http://www.cnblogs.com/onepixel/p/5090799.html)
 - [h5 首屏渲染优化 干货满满](https://juejin.im/post/5c3ff18b6fb9a04a0a5f76aa)
+- [浏览器缓存机制](https://www.jianshu.com/p/54cc04190252)
 
 ## vue
 - [vue-cli 2.X 的解析](https://juejin.im/post/5b2872516fb9a00e8626e34f)
