@@ -55,6 +55,7 @@
 - [terminus windows下最好用的终端工具了](https://github.com/eugeny/terminus)
 - [10个优秀的图片占位服务](https://c7sky.com/the-top-10-image-placeholder-services.html)
 - [非常好用的制作App宣传图的网站](https://smartmockups.com/)
+- [生成对应编辑器，系统，开发语言的 .gitignore](https://gitignore.io/)
 
 ## 服务器相关
 - [前端开发必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
