@@ -4,7 +4,7 @@
 > 作为一个书签使用, 喜欢的可以给个star或者watch关注
 
 ## 目录
-[JavaScript](#JavaScript) | [vue](#vue) | [react](#react) | [node](#node)
+[JavaScript](#JavaScript) | [vue](#vue) | [react](#react) | [node](#node) |
 [css](#css) | [有意思的网站](#有意思的网站) | [演讲与分享](#演讲与分享) | [面试](#面试)
 [文章订阅](#文章订阅) | [软件和工具](#软件和工具) | [服务器相关](#服务器相关)
 
