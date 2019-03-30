@@ -59,3 +59,4 @@
 
 ## 服务器相关
 - [前端开发必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
+- [CentOS7 安装node](https://blog.csdn.net/qq_38591756/article/details/82830121)
