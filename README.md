@@ -61,6 +61,7 @@
 - [非常好用的制作App宣传图的网站](https://smartmockups.com/)
 - [生成对应编辑器，系统，开发语言的 .gitignore](https://gitignore.io/)
 - [web应用自动部署](https://www.netlify.com/)
+- [在线制作ppt 可以导出ppt 非常智能好看](https://about.beautiful.ai/)
 
 ## 服务器相关
 - [前端开发必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
