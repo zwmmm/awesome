@@ -52,6 +52,7 @@
 - [中高级前端直通大厂宝典](https://juejin.im/post/5c64d15d6fb9a049d37f9c20#comment)
 - [前端面试题, 经常更新](https://finget.github.io/2019/01/15/interview-questions/)
 - [js的面试宝典,讲解了很多api的原理,非常值得一看](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
+- [面试宝典](https://lucifer.ren/fe-interview/#/)
 
 ## 文章订阅
 - [前端早报, 每天都会更新](https://wubaiqing.github.io/zaobao/)
