@@ -56,6 +56,7 @@
 - [面试宝典](https://lucifer.ren/fe-interview/#/)
 
 ## 文章订阅
+- [腾讯新闻前端团队周刊](https://github.com/Tnfe/TNFE-Weekly)
 - [前端早报, 每天都会更新](https://wubaiqing.github.io/zaobao/)
 - [开发者日报，内容比较多](https://www.devdaily.cn/)
 
