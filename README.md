@@ -37,6 +37,7 @@
 - [各种loading效果](https://epic-spinners.epicmax.co/#/)
 - [挺好看的一组iconfont, 并且可以在线自定义](https://www.ikonate.com/#content)
 - [一套比较齐全的iconfont 开源没有版权的问题](https://remixicon.com/)
+- [你未必知道的49个CSS知识点](https://juejin.im/post/5d3eca78e51d4561cb5dde12)
 
 ## 有意思的网站
 - [这个网站有很多好看的网站首页模板](https://cruip.com/)
