@@ -1,0 +1,384 @@
+{
+  "configs": [
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港51",
+      "server": "hk51.neolac.net",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港52",
+      "server": "hk52.neolac.net",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港53",
+      "server": "hk53.neolac.net",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港54",
+      "server": "52.229.166.58",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港56",
+      "server": "168.63.211.252",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港57",
+      "server": "65.52.170.103",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港58",
+      "server": "13.94.32.29",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港59",
+      "server": "13.75.69.146",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港61",
+      "server": "52.184.31.148",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港62",
+      "server": "207.46.158.128",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港64",
+      "server": "13.70.24.242",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "日本51",
+      "server": "23.100.97.129",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "日本52",
+      "server": "13.230.8.152",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "日本53",
+      "server": "54.199.208.23",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "日本54",
+      "server": "52.192.103.172",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "日本55",
+      "server": "54.238.230.27",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "韩国51",
+      "server": "52.79.248.11",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "韩国52",
+      "server": "13.125.26.28",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "韩国53",
+      "server": "52.79.247.47",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "韩国54",
+      "server": "13.124.39.211",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港31",
+      "server": "47.244.149.223",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港32",
+      "server": "47.75.114.132",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港33",
+      "server": "47.52.211.144",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港34",
+      "server": "47.244.105.137",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港35",
+      "server": "47.90.13.67",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港36",
+      "server": "47.244.168.182",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港37",
+      "server": "47.244.172.40",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港38",
+      "server": "47.91.183.215",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港39",
+      "server": "47.244.173.251",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港40",
+      "server": "47.244.200.242",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港41",
+      "server": "47.75.230.154",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港42",
+      "server": "47.244.131.71",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港43",
+      "server": "47.56.102.100",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港44",
+      "server": "47.244.202.39",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港81",
+      "server": "47.52.220.48",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港82",
+      "server": "47.91.206.80",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港83",
+      "server": "47.75.221.26",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港84",
+      "server": "47.75.11.204",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港85",
+      "server": "47.89.43.43",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港86",
+      "server": "47.244.96.184",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港87",
+      "server": "47.244.166.215",
+      "server_port": 34963
+    },
+    {
+      "obfs": "plain",
+      "protocol": "origin",
+      "method": "aes-256-cfb",
+      "password": "Zheng1995",
+      "remarks": "香港88",
+      "server": "47.244.119.154",
+      "server_port": 34963
+    }
+  ],
+  "localPort": 1080,
+  "shareOverLan": false
+}
