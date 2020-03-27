@@ -60,7 +60,6 @@
 ## 文章订阅
 - [腾讯新闻前端团队周刊](https://github.com/Tnfe/TNFE-Weekly)
 - [前端早报, 每天都会更新](https://wubaiqing.github.io/zaobao/)
-- [开发者日报，内容比较多](https://www.devdaily.cn/)
 
 ## 软件和工具
 - [terminus windows下最好用的终端工具了](https://github.com/eugeny/terminus)
